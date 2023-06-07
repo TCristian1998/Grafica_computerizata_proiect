@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ferrari Monza SP2
+* source:	https://sketchfab.com/3d-models/ferrari-monza-sp2-12f28c8755ba40e5b6df5eec65cd7729
+* author:	Jonrss (https://sketchfab.com/huy14320000006)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ferrari Monza SP2" (https://sketchfab.com/3d-models/ferrari-monza-sp2-12f28c8755ba40e5b6df5eec65cd7729) by Jonrss (https://sketchfab.com/huy14320000006) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
